@@ -3,7 +3,9 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview URL - https://main--eds--krishluv.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
+- Live URL https://main--eds--kirshluv.hlx.live/
 
 ## Installation
 
